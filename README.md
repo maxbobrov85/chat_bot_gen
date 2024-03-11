@@ -13,7 +13,7 @@ https://www.kaggle.com/datasets/pierremegret/dialogue-lines-of-the-simpsons
 
 Отчет с wanbd - https://github.com/maxbobrov85/chat_bot_gen/blob/main/Чат-бот huggingface – Weights & Biases.pdf
 
-Ускорение 
+
 ### Инференс
 Ускорение инференса включало в себя загрузку модели в формате bfloat16 и квантизацию (bit4)
 Сам инференс состоит из 2 файлов. Загрузка моделей и генерация ответов прописаны в [answgen.py](https://github.com/maxbobrov85/chat_bot_gen/blob/main/answgen.py). Описание flask приложения и хранение контекста вопросов реализовано в [app.py](https://github.com/maxbobrov85/chat_bot_gen/blob/main/app.py):
