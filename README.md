@@ -11,7 +11,7 @@ https://www.kaggle.com/datasets/pierremegret/dialogue-lines-of-the-simpsons
 
 ![Без имени](charts/Section-2-Panel-0-42w5ogt9t.png) ![Без имени](charts/Section-2-Panel-1-0r9zd1f2n.png) ![Без имени](charts/Section-2-Panel-2-odu4aikiz.png)
 
-[Отчет с wanbd](Чат-бот huggingface – Weights & Biases.pdf)
+Отчет с wanbd - https://github.com/maxbobrov85/chat_bot_gen/blob/main/Чат-бот huggingface – Weights & Biases.pdf
 
 Ускорение 
 ### Инференс
